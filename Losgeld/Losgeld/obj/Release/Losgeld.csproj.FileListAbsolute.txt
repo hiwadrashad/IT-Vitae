@@ -1,9 +1,0 @@
-C:\Users\hiwad\source\repos\Losgeld\Losgeld\bin\Release\Losgeld.exe.config
-C:\Users\hiwad\source\repos\Losgeld\Losgeld\bin\Release\Losgeld.exe
-C:\Users\hiwad\source\repos\Losgeld\Losgeld\bin\Release\Losgeld.pdb
-C:\Users\hiwad\source\repos\Losgeld\Losgeld\obj\Release\Losgeld.Form1.resources
-C:\Users\hiwad\source\repos\Losgeld\Losgeld\obj\Release\Losgeld.Properties.Resources.resources
-C:\Users\hiwad\source\repos\Losgeld\Losgeld\obj\Release\Losgeld.csproj.GenerateResource.cache
-C:\Users\hiwad\source\repos\Losgeld\Losgeld\obj\Release\Losgeld.csproj.CoreCompileInputs.cache
-C:\Users\hiwad\source\repos\Losgeld\Losgeld\obj\Release\Losgeld.exe
-C:\Users\hiwad\source\repos\Losgeld\Losgeld\obj\Release\Losgeld.pdb

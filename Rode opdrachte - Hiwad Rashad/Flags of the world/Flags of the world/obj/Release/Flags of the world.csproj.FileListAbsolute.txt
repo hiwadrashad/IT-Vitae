@@ -1,0 +1,9 @@
+C:\Users\hiwad\source\repos\Flags of the world\Flags of the world\bin\Release\Flags of the world.exe.config
+C:\Users\hiwad\source\repos\Flags of the world\Flags of the world\bin\Release\Flags of the world.exe
+C:\Users\hiwad\source\repos\Flags of the world\Flags of the world\bin\Release\Flags of the world.pdb
+C:\Users\hiwad\source\repos\Flags of the world\Flags of the world\obj\Release\Flags_of_the_world.Form1.resources
+C:\Users\hiwad\source\repos\Flags of the world\Flags of the world\obj\Release\Flags_of_the_world.Properties.Resources.resources
+C:\Users\hiwad\source\repos\Flags of the world\Flags of the world\obj\Release\Flags of the world.csproj.GenerateResource.cache
+C:\Users\hiwad\source\repos\Flags of the world\Flags of the world\obj\Release\Flags of the world.csproj.CoreCompileInputs.cache
+C:\Users\hiwad\source\repos\Flags of the world\Flags of the world\obj\Release\Flags of the world.exe
+C:\Users\hiwad\source\repos\Flags of the world\Flags of the world\obj\Release\Flags of the world.pdb

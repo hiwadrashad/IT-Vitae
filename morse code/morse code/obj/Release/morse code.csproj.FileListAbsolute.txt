@@ -1,9 +1,0 @@
-C:\Users\hiwad\source\repos\morse code\morse code\bin\Release\morse code.exe.config
-C:\Users\hiwad\source\repos\morse code\morse code\bin\Release\morse code.exe
-C:\Users\hiwad\source\repos\morse code\morse code\bin\Release\morse code.pdb
-C:\Users\hiwad\source\repos\morse code\morse code\obj\Release\morse_code.Form1.resources
-C:\Users\hiwad\source\repos\morse code\morse code\obj\Release\morse_code.Properties.Resources.resources
-C:\Users\hiwad\source\repos\morse code\morse code\obj\Release\morse code.csproj.GenerateResource.cache
-C:\Users\hiwad\source\repos\morse code\morse code\obj\Release\morse code.csproj.CoreCompileInputs.cache
-C:\Users\hiwad\source\repos\morse code\morse code\obj\Release\morse code.exe
-C:\Users\hiwad\source\repos\morse code\morse code\obj\Release\morse code.pdb

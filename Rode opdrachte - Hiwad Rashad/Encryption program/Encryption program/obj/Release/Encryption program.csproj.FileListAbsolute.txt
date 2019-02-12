@@ -1,0 +1,9 @@
+C:\Users\hiwad\source\repos\Encryption program\Encryption program\bin\Release\Encryption program.exe.config
+C:\Users\hiwad\source\repos\Encryption program\Encryption program\bin\Release\Encryption program.exe
+C:\Users\hiwad\source\repos\Encryption program\Encryption program\bin\Release\Encryption program.pdb
+C:\Users\hiwad\source\repos\Encryption program\Encryption program\obj\Release\Encryption_program.Form1.resources
+C:\Users\hiwad\source\repos\Encryption program\Encryption program\obj\Release\Encryption_program.Properties.Resources.resources
+C:\Users\hiwad\source\repos\Encryption program\Encryption program\obj\Release\Encryption program.csproj.GenerateResource.cache
+C:\Users\hiwad\source\repos\Encryption program\Encryption program\obj\Release\Encryption program.csproj.CoreCompileInputs.cache
+C:\Users\hiwad\source\repos\Encryption program\Encryption program\obj\Release\Encryption program.exe
+C:\Users\hiwad\source\repos\Encryption program\Encryption program\obj\Release\Encryption program.pdb
