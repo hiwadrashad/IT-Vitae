@@ -1,0 +1,10 @@
+C:\Users\hiwad\source\repos\boter kaas en eieren project\boter kaas en eieren project\bin\Release\boter kaas en eieren project.exe.config
+C:\Users\hiwad\source\repos\boter kaas en eieren project\boter kaas en eieren project\bin\Release\boter kaas en eieren project.exe
+C:\Users\hiwad\source\repos\boter kaas en eieren project\boter kaas en eieren project\bin\Release\boter kaas en eieren project.pdb
+C:\Users\hiwad\source\repos\boter kaas en eieren project\boter kaas en eieren project\obj\Release\boter kaas en eieren project.csprojAssemblyReference.cache
+C:\Users\hiwad\source\repos\boter kaas en eieren project\boter kaas en eieren project\obj\Release\boter_kaas_en_eieren_project.Form1.resources
+C:\Users\hiwad\source\repos\boter kaas en eieren project\boter kaas en eieren project\obj\Release\boter_kaas_en_eieren_project.Properties.Resources.resources
+C:\Users\hiwad\source\repos\boter kaas en eieren project\boter kaas en eieren project\obj\Release\boter kaas en eieren project.csproj.GenerateResource.cache
+C:\Users\hiwad\source\repos\boter kaas en eieren project\boter kaas en eieren project\obj\Release\boter kaas en eieren project.csproj.CoreCompileInputs.cache
+C:\Users\hiwad\source\repos\boter kaas en eieren project\boter kaas en eieren project\obj\Release\boter kaas en eieren project.exe
+C:\Users\hiwad\source\repos\boter kaas en eieren project\boter kaas en eieren project\obj\Release\boter kaas en eieren project.pdb
