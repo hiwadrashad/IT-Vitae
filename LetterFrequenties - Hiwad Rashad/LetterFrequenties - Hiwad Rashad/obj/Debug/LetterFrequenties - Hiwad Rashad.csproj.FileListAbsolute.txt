@@ -1,0 +1,10 @@
+C:\Users\hiwad\source\repos\LetterFrequenties - Hiwad Rashad\LetterFrequenties - Hiwad Rashad\bin\Debug\LetterFrequenties - Hiwad Rashad.exe.config
+C:\Users\hiwad\source\repos\LetterFrequenties - Hiwad Rashad\LetterFrequenties - Hiwad Rashad\bin\Debug\LetterFrequenties - Hiwad Rashad.exe
+C:\Users\hiwad\source\repos\LetterFrequenties - Hiwad Rashad\LetterFrequenties - Hiwad Rashad\bin\Debug\LetterFrequenties - Hiwad Rashad.pdb
+C:\Users\hiwad\source\repos\LetterFrequenties - Hiwad Rashad\LetterFrequenties - Hiwad Rashad\obj\Debug\LetterFrequenties - Hiwad Rashad.csprojAssemblyReference.cache
+C:\Users\hiwad\source\repos\LetterFrequenties - Hiwad Rashad\LetterFrequenties - Hiwad Rashad\obj\Debug\LetterFrequenties___Hiwad_Rashad.Form1.resources
+C:\Users\hiwad\source\repos\LetterFrequenties - Hiwad Rashad\LetterFrequenties - Hiwad Rashad\obj\Debug\LetterFrequenties___Hiwad_Rashad.Properties.Resources.resources
+C:\Users\hiwad\source\repos\LetterFrequenties - Hiwad Rashad\LetterFrequenties - Hiwad Rashad\obj\Debug\LetterFrequenties - Hiwad Rashad.csproj.GenerateResource.cache
+C:\Users\hiwad\source\repos\LetterFrequenties - Hiwad Rashad\LetterFrequenties - Hiwad Rashad\obj\Debug\LetterFrequenties - Hiwad Rashad.csproj.CoreCompileInputs.cache
+C:\Users\hiwad\source\repos\LetterFrequenties - Hiwad Rashad\LetterFrequenties - Hiwad Rashad\obj\Debug\LetterFrequenties - Hiwad Rashad.exe
+C:\Users\hiwad\source\repos\LetterFrequenties - Hiwad Rashad\LetterFrequenties - Hiwad Rashad\obj\Debug\LetterFrequenties - Hiwad Rashad.pdb
