@@ -28,10 +28,11 @@ namespace Flags_of_the_world
         private void button1_Click(object sender, EventArgs e)
         {
             var rand = new Random();
-            List<string> paths = Directory.GetFiles((Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "/Flags of the world/flags")).ToList();
+            List<string> paths = Directory.GetFiles(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"flags")).ToList();
             var path = Path.GetFullPath(paths[rand.Next(0, paths.Count)]);
             pictureBox1.Image = new Bitmap(path);
             label1.Visible = false;
+            label2.Visible = false;
             textBox1.Visible = false;
             label3.Visible = true;
             button3.Text = "Next";
@@ -48,7 +49,7 @@ namespace Flags_of_the_world
         {
         
             var rand = new Random();
-            List<string> paths = Directory.GetFiles((Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "/Flags of the world/flags")).ToList();
+            List<string> paths = Directory.GetFiles(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"flags")).ToList();
             var path = Path.GetFullPath(paths[rand.Next(0, paths.Count)]);
             pictureBox1.Image = new Bitmap(path);
             label1.Visible = true;
@@ -70,7 +71,7 @@ namespace Flags_of_the_world
             if (button3.Text == "Next")
             {
                 var rand = new Random();
-                List<string> paths = Directory.GetFiles((Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "/Flags of the world/flags")).ToList();
+                List<string> paths = Directory.GetFiles(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"flags")).ToList();
                 var path = Path.GetFullPath(paths[rand.Next(0, paths.Count)]);
                 pictureBox1.Image = new Bitmap(path);
                 label1.Visible = false;
@@ -91,6 +92,7 @@ namespace Flags_of_the_world
             {
        
                 {
+                    label2.Visible = true;
                     if (textBox1.Text == countryname)
                     {
                         label2.Text = "You got it right!";
@@ -100,7 +102,7 @@ namespace Flags_of_the_world
                         label2.Text = "Wrong";
                     }
                     var rand = new Random();
-                    List<string> paths = Directory.GetFiles((Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "/Flags of the world/flags")).ToList();
+                    List<string> paths = Directory.GetFiles(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"flags")).ToList();
                     var path = Path.GetFullPath(paths[rand.Next(0, paths.Count)]);
                     pictureBox1.Image = new Bitmap(path);
                     label1.Visible = true;
