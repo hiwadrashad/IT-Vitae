@@ -1,0 +1,10 @@
+C:\Users\hiwad\source\repos\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+C:\Users\hiwad\source\repos\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+C:\Users\hiwad\source\repos\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+C:\Users\hiwad\source\repos\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csprojAssemblyReference.cache
+C:\Users\hiwad\source\repos\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Form1.resources
+C:\Users\hiwad\source\repos\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Properties.Resources.resources
+C:\Users\hiwad\source\repos\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.GenerateResource.cache
+C:\Users\hiwad\source\repos\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.CoreCompileInputs.cache
+C:\Users\hiwad\source\repos\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+C:\Users\hiwad\source\repos\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
