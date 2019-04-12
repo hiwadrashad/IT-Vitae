@@ -1,0 +1,12 @@
+C:\Users\hiwad\source\repos\Scientific Calculator - Hiwad Rashad\Scientific Calculator - Hiwad Rashad\bin\Debug\Scientific Calculator - Hiwad Rashad.exe.config
+C:\Users\hiwad\source\repos\Scientific Calculator - Hiwad Rashad\Scientific Calculator - Hiwad Rashad\bin\Debug\Scientific Calculator - Hiwad Rashad.exe
+C:\Users\hiwad\source\repos\Scientific Calculator - Hiwad Rashad\Scientific Calculator - Hiwad Rashad\bin\Debug\Scientific Calculator - Hiwad Rashad.pdb
+C:\Users\hiwad\source\repos\Scientific Calculator - Hiwad Rashad\Scientific Calculator - Hiwad Rashad\obj\Debug\Scientific_Calculator___Hiwad_Rashad.Form1.resources
+C:\Users\hiwad\source\repos\Scientific Calculator - Hiwad Rashad\Scientific Calculator - Hiwad Rashad\obj\Debug\Scientific_Calculator___Hiwad_Rashad.Properties.Resources.resources
+C:\Users\hiwad\source\repos\Scientific Calculator - Hiwad Rashad\Scientific Calculator - Hiwad Rashad\obj\Debug\Scientific Calculator - Hiwad Rashad.csproj.GenerateResource.cache
+C:\Users\hiwad\source\repos\Scientific Calculator - Hiwad Rashad\Scientific Calculator - Hiwad Rashad\obj\Debug\Scientific Calculator - Hiwad Rashad.csproj.CoreCompileInputs.cache
+C:\Users\hiwad\source\repos\Scientific Calculator - Hiwad Rashad\Scientific Calculator - Hiwad Rashad\obj\Debug\Scientific Calculator - Hiwad Rashad.exe
+C:\Users\hiwad\source\repos\Scientific Calculator - Hiwad Rashad\Scientific Calculator - Hiwad Rashad\obj\Debug\Scientific Calculator - Hiwad Rashad.pdb
+C:\Users\hiwad\source\repos\Scientific Calculator - Hiwad Rashad\Scientific Calculator - Hiwad Rashad\bin\Debug\NCalc.dll
+C:\Users\hiwad\source\repos\Scientific Calculator - Hiwad Rashad\Scientific Calculator - Hiwad Rashad\obj\Debug\Scientific Calculator - Hiwad Rashad.csproj.CopyComplete
+C:\Users\hiwad\source\repos\Scientific Calculator - Hiwad Rashad\Scientific Calculator - Hiwad Rashad\obj\Debug\Scientific Calculator - Hiwad Rashad.csprojAssemblyReference.cache
