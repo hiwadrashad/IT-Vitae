@@ -1,0 +1,10 @@
+C:\Users\hiwad\source\repos\De Dierentuin\De Dierentuin\bin\Debug\De Dierentuin.exe.config
+C:\Users\hiwad\source\repos\De Dierentuin\De Dierentuin\bin\Debug\De Dierentuin.exe
+C:\Users\hiwad\source\repos\De Dierentuin\De Dierentuin\bin\Debug\De Dierentuin.pdb
+C:\Users\hiwad\source\repos\De Dierentuin\De Dierentuin\obj\Debug\De Dierentuin.csprojAssemblyReference.cache
+C:\Users\hiwad\source\repos\De Dierentuin\De Dierentuin\obj\Debug\De_Dierentuin.Form1.resources
+C:\Users\hiwad\source\repos\De Dierentuin\De Dierentuin\obj\Debug\De_Dierentuin.Properties.Resources.resources
+C:\Users\hiwad\source\repos\De Dierentuin\De Dierentuin\obj\Debug\De Dierentuin.csproj.GenerateResource.cache
+C:\Users\hiwad\source\repos\De Dierentuin\De Dierentuin\obj\Debug\De Dierentuin.csproj.CoreCompileInputs.cache
+C:\Users\hiwad\source\repos\De Dierentuin\De Dierentuin\obj\Debug\De Dierentuin.exe
+C:\Users\hiwad\source\repos\De Dierentuin\De Dierentuin\obj\Debug\De Dierentuin.pdb
