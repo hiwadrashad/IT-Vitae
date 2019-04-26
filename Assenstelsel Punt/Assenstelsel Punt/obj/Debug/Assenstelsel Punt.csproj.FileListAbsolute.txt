@@ -1,0 +1,15 @@
+C:\Users\hiwad\source\repos\Assenstelsel Punt\Assenstelsel Punt\bin\Debug\Assenstelsel Punt.exe.config
+C:\Users\hiwad\source\repos\Assenstelsel Punt\Assenstelsel Punt\bin\Debug\Assenstelsel Punt.exe
+C:\Users\hiwad\source\repos\Assenstelsel Punt\Assenstelsel Punt\bin\Debug\Assenstelsel Punt.pdb
+C:\Users\hiwad\source\repos\Assenstelsel Punt\Assenstelsel Punt\obj\Debug\Assenstelsel Punt.csprojAssemblyReference.cache
+C:\Users\hiwad\source\repos\Assenstelsel Punt\Assenstelsel Punt\obj\Debug\MainWindow.g.cs
+C:\Users\hiwad\source\repos\Assenstelsel Punt\Assenstelsel Punt\obj\Debug\App.g.cs
+C:\Users\hiwad\source\repos\Assenstelsel Punt\Assenstelsel Punt\obj\Debug\Assenstelsel Punt_MarkupCompile.cache
+C:\Users\hiwad\source\repos\Assenstelsel Punt\Assenstelsel Punt\obj\Debug\Assenstelsel Punt_MarkupCompile.lref
+C:\Users\hiwad\source\repos\Assenstelsel Punt\Assenstelsel Punt\obj\Debug\MainWindow.baml
+C:\Users\hiwad\source\repos\Assenstelsel Punt\Assenstelsel Punt\obj\Debug\Assenstelsel Punt.g.resources
+C:\Users\hiwad\source\repos\Assenstelsel Punt\Assenstelsel Punt\obj\Debug\Assenstelsel_Punt.Properties.Resources.resources
+C:\Users\hiwad\source\repos\Assenstelsel Punt\Assenstelsel Punt\obj\Debug\Assenstelsel Punt.csproj.GenerateResource.cache
+C:\Users\hiwad\source\repos\Assenstelsel Punt\Assenstelsel Punt\obj\Debug\Assenstelsel Punt.csproj.CoreCompileInputs.cache
+C:\Users\hiwad\source\repos\Assenstelsel Punt\Assenstelsel Punt\obj\Debug\Assenstelsel Punt.exe
+C:\Users\hiwad\source\repos\Assenstelsel Punt\Assenstelsel Punt\obj\Debug\Assenstelsel Punt.pdb
