@@ -1,0 +1,15 @@
+C:\Users\hiwad\source\repos\Kleinste gemene veelvoud - Hiwad Rashad\Kleinste gemene veelvoud - Hiwad Rashad\bin\Debug\Kleinste gemene veelvoud - Hiwad Rashad.exe.config
+C:\Users\hiwad\source\repos\Kleinste gemene veelvoud - Hiwad Rashad\Kleinste gemene veelvoud - Hiwad Rashad\bin\Debug\Kleinste gemene veelvoud - Hiwad Rashad.exe
+C:\Users\hiwad\source\repos\Kleinste gemene veelvoud - Hiwad Rashad\Kleinste gemene veelvoud - Hiwad Rashad\bin\Debug\Kleinste gemene veelvoud - Hiwad Rashad.pdb
+C:\Users\hiwad\source\repos\Kleinste gemene veelvoud - Hiwad Rashad\Kleinste gemene veelvoud - Hiwad Rashad\obj\Debug\Kleinste gemene veelvoud - Hiwad Rashad.csprojAssemblyReference.cache
+C:\Users\hiwad\source\repos\Kleinste gemene veelvoud - Hiwad Rashad\Kleinste gemene veelvoud - Hiwad Rashad\obj\Debug\MainWindow.g.cs
+C:\Users\hiwad\source\repos\Kleinste gemene veelvoud - Hiwad Rashad\Kleinste gemene veelvoud - Hiwad Rashad\obj\Debug\App.g.cs
+C:\Users\hiwad\source\repos\Kleinste gemene veelvoud - Hiwad Rashad\Kleinste gemene veelvoud - Hiwad Rashad\obj\Debug\Kleinste gemene veelvoud - Hiwad Rashad_MarkupCompile.cache
+C:\Users\hiwad\source\repos\Kleinste gemene veelvoud - Hiwad Rashad\Kleinste gemene veelvoud - Hiwad Rashad\obj\Debug\Kleinste gemene veelvoud - Hiwad Rashad_MarkupCompile.lref
+C:\Users\hiwad\source\repos\Kleinste gemene veelvoud - Hiwad Rashad\Kleinste gemene veelvoud - Hiwad Rashad\obj\Debug\MainWindow.baml
+C:\Users\hiwad\source\repos\Kleinste gemene veelvoud - Hiwad Rashad\Kleinste gemene veelvoud - Hiwad Rashad\obj\Debug\Kleinste gemene veelvoud - Hiwad Rashad.g.resources
+C:\Users\hiwad\source\repos\Kleinste gemene veelvoud - Hiwad Rashad\Kleinste gemene veelvoud - Hiwad Rashad\obj\Debug\Kleinste_gemene_veelvoud___Hiwad_Rashad.Properties.Resources.resources
+C:\Users\hiwad\source\repos\Kleinste gemene veelvoud - Hiwad Rashad\Kleinste gemene veelvoud - Hiwad Rashad\obj\Debug\Kleinste gemene veelvoud - Hiwad Rashad.csproj.GenerateResource.cache
+C:\Users\hiwad\source\repos\Kleinste gemene veelvoud - Hiwad Rashad\Kleinste gemene veelvoud - Hiwad Rashad\obj\Debug\Kleinste gemene veelvoud - Hiwad Rashad.csproj.CoreCompileInputs.cache
+C:\Users\hiwad\source\repos\Kleinste gemene veelvoud - Hiwad Rashad\Kleinste gemene veelvoud - Hiwad Rashad\obj\Debug\Kleinste gemene veelvoud - Hiwad Rashad.exe
+C:\Users\hiwad\source\repos\Kleinste gemene veelvoud - Hiwad Rashad\Kleinste gemene veelvoud - Hiwad Rashad\obj\Debug\Kleinste gemene veelvoud - Hiwad Rashad.pdb

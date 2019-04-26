@@ -1,0 +1,9 @@
+﻿<Application x:Class="Kleinste_gemene_veelvoud___Hiwad_Rashad.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Kleinste_gemene_veelvoud___Hiwad_Rashad"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
