@@ -1,0 +1,15 @@
+C:\Users\hiwad\source\repos\Assenstelsel\Assenstelsel\bin\Debug\Assenstelsel.exe.config
+C:\Users\hiwad\source\repos\Assenstelsel\Assenstelsel\bin\Debug\Assenstelsel.exe
+C:\Users\hiwad\source\repos\Assenstelsel\Assenstelsel\bin\Debug\Assenstelsel.pdb
+C:\Users\hiwad\source\repos\Assenstelsel\Assenstelsel\obj\Debug\MainWindow.g.cs
+C:\Users\hiwad\source\repos\Assenstelsel\Assenstelsel\obj\Debug\App.g.cs
+C:\Users\hiwad\source\repos\Assenstelsel\Assenstelsel\obj\Debug\Assenstelsel_MarkupCompile.cache
+C:\Users\hiwad\source\repos\Assenstelsel\Assenstelsel\obj\Debug\Assenstelsel_MarkupCompile.lref
+C:\Users\hiwad\source\repos\Assenstelsel\Assenstelsel\obj\Debug\MainWindow.baml
+C:\Users\hiwad\source\repos\Assenstelsel\Assenstelsel\obj\Debug\Assenstelsel.g.resources
+C:\Users\hiwad\source\repos\Assenstelsel\Assenstelsel\obj\Debug\Assenstelsel.Properties.Resources.resources
+C:\Users\hiwad\source\repos\Assenstelsel\Assenstelsel\obj\Debug\Assenstelsel.csproj.GenerateResource.cache
+C:\Users\hiwad\source\repos\Assenstelsel\Assenstelsel\obj\Debug\Assenstelsel.csproj.CoreCompileInputs.cache
+C:\Users\hiwad\source\repos\Assenstelsel\Assenstelsel\obj\Debug\Assenstelsel.exe
+C:\Users\hiwad\source\repos\Assenstelsel\Assenstelsel\obj\Debug\Assenstelsel.pdb
+C:\Users\hiwad\source\repos\Assenstelsel\Assenstelsel\obj\Debug\Assenstelsel.csprojAssemblyReference.cache
